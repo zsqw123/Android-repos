@@ -27,11 +27,17 @@
 1. [ExpandableBottomBar](https://github.com/st235/ExpandableBottomBar) 支持NavController, Coordinator Layout
 
     ```groovy
-    implementation 'com.github.st235:expandablebottombar:X.X'
+    implementation 'com.github.st235:expandablebottombar:1.3.1'
     ```
 
     ![ExpandableBottomBar](https://cdn.jsdelivr.net/gh/zsqw123/cdn@master/picCDN/20210222233658.gif)
-2. [BubbleTabBar](https://github.com/akshay2211/BubbleTabBar)  效果同上, 支持NavController
+2. [BubbleTabBar](https://github.com/akshay2211/BubbleTabBar)  效果同上, 支持NavController 但是文字变换比上面平滑
+
+    ```groovy
+    implementation  'com.fxn769:bubbletabbar:1.0.6'
+    ```
+
+    ![awa](https://cdn.jsdelivr.net/gh/zsqw123/cdn@master/picCDN/20210227145518.gif)
 3. [AnimatedBottomBar](https://github.com/Droppers/AnimatedBottomBar)  适配 ViewPager/ViewPager2 极为方便, 支持动态增删及禁用部分
 
     ```groovy
