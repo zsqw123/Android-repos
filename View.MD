@@ -34,6 +34,7 @@
 2. [BubbleTabBar](https://github.com/akshay2211/BubbleTabBar)  效果同上, 支持NavController 但是文字变换比上面平滑
 
     ```groovy
+    // maven { url 'https://jitpack.io' }
     implementation  'com.fxn769:bubbletabbar:1.0.6'
     ```
 
